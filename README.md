@@ -5,7 +5,6 @@ I strive to be a front-end developer, I like solving problems and I'm always ava
 💻 practicing python
 
 🚩 from Salvador-BA
-
 dogabrito/dogabrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
